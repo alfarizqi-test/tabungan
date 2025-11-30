@@ -1,0 +1,497 @@
+[
+  {
+    "id": "301",
+    "name": "Adellia Dwi Alfiana",
+    "nim": "2425108376",
+    "balance": 50000,
+    "transactions": [
+      {
+        "id": "t9",
+        "date": "2025-11-03",
+        "type": "deposit",
+        "amount": 50000,
+        "description": "Simpanan Mingguan"
+      }
+    ]
+  },
+  {
+    "id": "302",
+    "name": "Aisyah Suciana",
+    "nim": "2425108377",
+    "balance": 50000,
+    "transactions": [
+      {
+        "id": "t12",
+        "date": "2025-11-01",
+        "type": "deposit",
+        "amount": 50000,
+        "description": "Simpanan Mingguan"
+      }
+    ]
+  },
+  {
+    "id": "303",
+    "name": "Akhmal Widiyatma Kusuma",
+    "nim": "2425108378",
+    "balance": 50000,
+    "transactions": [
+      {
+        "id": "t12",
+        "date": "2025-11-01",
+        "type": "deposit",
+        "amount": 50000,
+        "description": "Simpanan Mingguan"
+      }
+    ]
+  },
+  {
+    "id": "304",
+    "name": "Alfarizqi Himam Harakan",
+    "nim": "2425108379",
+    "balance": 50000,
+    "transactions": [
+      {
+        "id": "t12",
+        "date": "2025-11-01",
+        "type": "deposit",
+        "amount": 50000,
+        "description": "Simpanan Mingguan"
+      }
+    ]
+  },
+  {
+    "id": "305",
+    "name": "Alip Mustakim",
+    "nim": "2425108380",
+    "balance": 50000,
+    "transactions": [
+      {
+        "id": "t12",
+        "date": "2025-11-01",
+        "type": "deposit",
+        "amount": 50000,
+        "description": "Simpanan Mingguan"
+      }
+    ]
+  },
+  {
+    "id": "306",
+    "name": "Anggi Meilani Laksono",
+    "nim": "2425108381",
+    "balance": 50000,
+    "transactions": [
+      {
+        "id": "t12",
+        "date": "2025-11-01",
+        "type": "deposit",
+        "amount": 50000,
+        "description": "Simpanan Mingguan"
+      }
+    ]
+  },
+  {
+    "id": "307",
+    "name": "Azarine Febriana Puspita",
+    "nim": "2425108382",
+    "balance": 50000,
+    "transactions": [
+      {
+        "id": "t12",
+        "date": "2025-11-01",
+        "type": "deposit",
+        "amount": 50000,
+        "description": "Simpanan Mingguan"
+      }
+    ]
+  },
+  {
+    "id": "308",
+    "name": "Bagas Setyo Utomo",
+    "nim": "2425108383",
+    "balance": 50000,
+    "transactions": [
+      {
+        "id": "t12",
+        "date": "2025-11-01",
+        "type": "deposit",
+        "amount": 50000,
+        "description": "Simpanan Mingguan"
+      }
+    ]
+  },
+  {
+    "id": "309",
+    "name": "Clevio Revanditya Alghiffari",
+    "nim": "2425108384",
+    "balance": 50000,
+    "transactions": [
+      {
+        "id": "t12",
+        "date": "2025-11-01",
+        "type": "deposit",
+        "amount": 50000,
+        "description": "Simpanan Mingguan"
+      }
+    ]
+  },
+  {
+    "id": "310",
+    "name": "Devi Marissa",
+    "nim": "2425108385",
+    "balance": 50000,
+    "transactions": [
+      {
+        "id": "t12",
+        "date": "2025-11-01",
+        "type": "deposit",
+        "amount": 50000,
+        "description": "Simpanan Mingguan"
+      }
+    ]
+  },
+  {
+    "id": "311",
+    "name": "Eka Maulana Agustino",
+    "nim": "2425108386",
+    "balance": 50000,
+    "transactions": [
+      {
+        "id": "t12",
+        "date": "2025-11-01",
+        "type": "deposit",
+        "amount": 50000,
+        "description": "Simpanan Mingguan"
+      }
+    ]
+  },
+  {
+    "id": "312",
+    "name": "Elang Pratama Putra Priyana",
+    "nim": "2425108387",
+    "balance": 50000,
+    "transactions": [
+      {
+        "id": "t12",
+        "date": "2025-11-01",
+        "type": "deposit",
+        "amount": 50000,
+        "description": "Simpanan Mingguan"
+      }
+    ]
+  },
+  {
+    "id": "313",
+    "name": "Fabian Runaqun Madinu",
+    "nim": "2425108388",
+    "balance": 50000,
+    "transactions": [
+      {
+        "id": "t12",
+        "date": "2025-11-01",
+        "type": "deposit",
+        "amount": 50000,
+        "description": "Simpanan Mingguan"
+      }
+    ]
+  },
+  {
+    "id": "314",
+    "name": "Hefa Ratu Bashasha Azaria",
+    "nim": "2425108389",
+    "balance": 50000,
+    "transactions": [
+      {
+        "id": "t12",
+        "date": "2025-11-01",
+        "type": "deposit",
+        "amount": 50000,
+        "description": "Simpanan Mingguan"
+      }
+    ]
+  },
+  {
+    "id": "315",
+    "name": "Imam Wafa Saputra",
+    "nim": "2425108390",
+    "balance": 50000,
+    "transactions": [
+      {
+        "id": "t12",
+        "date": "2025-11-01",
+        "type": "deposit",
+        "amount": 50000,
+        "description": "Simpanan Mingguan"
+      }
+    ]
+  },
+  {
+    "id": "316",
+    "name": "In'am Masyhuroh",
+    "nim": "2425108391",
+    "balance": 50000,
+    "transactions": [
+      {
+        "id": "t12",
+        "date": "2025-11-01",
+        "type": "deposit",
+        "amount": 50000,
+        "description": "Simpanan Mingguan"
+      }
+    ]
+  },
+  {
+    "id": "317",
+    "name": "Intan Ayu Saharani",
+    "nim": "2425108392",
+    "balance": 50000,
+    "transactions": [
+      {
+        "id": "t12",
+        "date": "2025-11-01",
+        "type": "deposit",
+        "amount": 50000,
+        "description": "Simpanan Mingguan"
+      }
+    ]
+  },
+  {
+    "id": "318",
+    "name": "Marsya Adytia",
+    "nim": "2425108393",
+    "balance": 50000,
+    "transactions": [
+      {
+        "id": "t12",
+        "date": "2025-11-01",
+        "type": "deposit",
+        "amount": 50000,
+        "description": "Simpanan Mingguan"
+      }
+    ]
+  },
+  {
+    "id": "319",
+    "name": "Muflihati Nisa'",
+    "nim": "2425108394",
+    "balance": 50000,
+    "transactions": [
+      {
+        "id": "t12",
+        "date": "2025-11-01",
+        "type": "deposit",
+        "amount": 50000,
+        "description": "Simpanan Mingguan"
+      }
+    ]
+  },
+  {
+    "id": "320",
+    "name": "Muhammad Hafidz Attamimi",
+    "nim": "2425108395",
+    "balance": 50000,
+    "transactions": [
+      {
+        "id": "t12",
+        "date": "2025-11-01",
+        "type": "deposit",
+        "amount": 50000,
+        "description": "Simpanan Mingguan"
+      }
+    ]
+  },
+  {
+    "id": "321",
+    "name": "Muhammad Hamzah Zulfian",
+    "nim": "2425108396",
+    "balance": 50000,
+    "transactions": [
+      {
+        "id": "t12",
+        "date": "2025-11-01",
+        "type": "deposit",
+        "amount": 50000,
+        "description": "Simpanan Mingguan"
+      }
+    ]
+  },
+  {
+    "id": "322",
+    "name": "Muhammad Rizki",
+    "nim": "2425108397",
+    "balance": 50000,
+    "transactions": [
+      {
+        "id": "t12",
+        "date": "2025-11-01",
+        "type": "deposit",
+        "amount": 50000,
+        "description": "Simpanan Mingguan"
+      }
+    ]
+  },
+  {
+    "id": "323",
+    "name": "Nesya Widianingrum",
+    "nim": "2425108398",
+    "balance": 50000,
+    "transactions": [
+      {
+        "id": "t12",
+        "date": "2025-11-01",
+        "type": "deposit",
+        "amount": 50000,
+        "description": "Simpanan Mingguan"
+      }
+    ]
+  },
+  {
+    "id": "324",
+    "name": "Rahmatan Ihsan",
+    "nim": "2425108399",
+    "balance": 50000,
+    "transactions": [
+      {
+        "id": "t12",
+        "date": "2025-11-01",
+        "type": "deposit",
+        "amount": 50000,
+        "description": "Simpanan Mingguan"
+      }
+    ]
+  },
+  {
+    "id": "325",
+    "name": "Ramon Dema Raditia",
+    "nim": "2425108400",
+    "balance": 50000,
+    "transactions": [
+      {
+        "id": "t12",
+        "date": "2025-11-01",
+        "type": "deposit",
+        "amount": 50000,
+        "description": "Simpanan Mingguan"
+      }
+    ]
+  },
+  {
+    "id": "326",
+    "name": "Randi Riski Dermawan",
+    "nim": "2425108401",
+    "balance": 50000,
+    "transactions": [
+      {
+        "id": "t12",
+        "date": "2025-11-01",
+        "type": "deposit",
+        "amount": 50000,
+        "description": "Simpanan Mingguan"
+      }
+    ]
+  },
+  {
+    "id": "327",
+    "name": "Rifal Abdul Ghozali",
+    "nim": "2425108402",
+    "balance": 50000,
+    "transactions": [
+      {
+        "id": "t12",
+        "date": "2025-11-01",
+        "type": "deposit",
+        "amount": 50000,
+        "description": "Simpanan Mingguan"
+      }
+    ]
+  },
+  {
+    "id": "328",
+    "name": "Salfa Meiza Adinda",
+    "nim": "2425108403",
+    "balance": 50000,
+    "transactions": [
+      {
+        "id": "t12",
+        "date": "2025-11-01",
+        "type": "deposit",
+        "amount": 50000,
+        "description": "Simpanan Mingguan"
+      }
+    ]
+  },
+  {
+    "id": "329",
+    "name": "Satriyo Mandala Putra",
+    "nim": "2425108404",
+    "balance": 50000,
+    "transactions": [
+      {
+        "id": "t12",
+        "date": "2025-11-01",
+        "type": "deposit",
+        "amount": 50000,
+        "description": "Simpanan Mingguan"
+      }
+    ]
+  },
+  {
+    "id": "330",
+    "name": "Siti Nur Fadhila",
+    "nim": "2425108406",
+    "balance": 50000,
+    "transactions": [
+      {
+        "id": "t12",
+        "date": "2025-11-01",
+        "type": "deposit",
+        "amount": 50000,
+        "description": "Simpanan Mingguan"
+      }
+    ]
+  },
+  {
+    "id": "331",
+    "name": "Vallen Gavriel Samsih Putra",
+    "nim": "2425108407",
+    "balance": 50000,
+    "transactions": [
+      {
+        "id": "t12",
+        "date": "2025-11-01",
+        "type": "deposit",
+        "amount": 50000,
+        "description": "Simpanan Mingguan"
+      }
+    ]
+  },
+  {
+    "id": "332",
+    "name": "Wulan Ramadhani",
+    "nim": "2425108408",
+    "balance": 50000,
+    "transactions": [
+      {
+        "id": "t12",
+        "date": "2025-11-01",
+        "type": "deposit",
+        "amount": 50000,
+        "description": "Simpanan Mingguan"
+      }
+    ]
+  },
+  {
+    "id": "333",
+    "name": "Zaki Surya Yanunanda",
+    "nim": "2425108409",
+    "balance": 50000,
+    "transactions": [
+      {
+        "id": "t12",
+        "date": "2025-11-01",
+        "type": "deposit",
+        "amount": 50000,
+        "description": "Simpanan Mingguan"
+      }
+    ]
+  }
+]

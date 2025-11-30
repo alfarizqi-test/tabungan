@@ -1,0 +1,497 @@
+[
+  {
+    "id": "301",
+    "name": "Adellia Dwi Alfiana",
+    "nim": "2425108376",
+    "balance": 5000,
+    "transactions": [
+      {
+        "id": "t1764067392083",
+        "date": "2025-11-25",
+        "type": "deposit",
+        "amount": 5000,
+        "description": "Tabungan"
+      }
+    ]
+  },
+  {
+    "id": "302",
+    "name": "Aisyah Suciana",
+    "nim": "2425108377",
+    "balance": 200000,
+    "transactions": [
+      {
+        "id": "t1764067419305",
+        "date": "2025-11-25",
+        "type": "deposit",
+        "amount": 200000,
+        "description": "Tabungan"
+      }
+    ]
+  },
+  {
+    "id": "303",
+    "name": "Akhmal Widiyatma Kusuma",
+    "nim": "2425108378",
+    "balance": 50000,
+    "transactions": [
+      {
+        "id": "t1764067443817",
+        "date": "2025-11-25",
+        "type": "deposit",
+        "amount": 50000,
+        "description": "Tabungan"
+      }
+    ]
+  },
+  {
+    "id": "304",
+    "name": "Alfarizqi Himam Harakan",
+    "nim": "2425108379",
+    "balance": 104000,
+    "transactions": [
+      {
+        "id": "t1764067456934",
+        "date": "2025-11-25",
+        "type": "deposit",
+        "amount": 104000,
+        "description": "Tabungan"
+      }
+    ]
+  },
+  {
+    "id": "305",
+    "name": "Alip Mustakim",
+    "nim": "2425108380",
+    "balance": 2000,
+    "transactions": [
+      {
+        "id": "t1764067476828",
+        "date": "2025-11-25",
+        "type": "deposit",
+        "amount": 2000,
+        "description": "Tabungan"
+      }
+    ]
+  },
+  {
+    "id": "306",
+    "name": "Anggi Meilani Laksono",
+    "nim": "2425108381",
+    "balance": 512000,
+    "transactions": [
+      {
+        "id": "t1764067499837",
+        "date": "2025-11-25",
+        "type": "deposit",
+        "amount": 512000,
+        "description": "Tabungan"
+      }
+    ]
+  },
+  {
+    "id": "307",
+    "name": "Azarine Febriana Puspita",
+    "nim": "2425108382",
+    "balance": 617000,
+    "transactions": [
+      {
+        "id": "t1764067520499",
+        "date": "2025-11-25",
+        "type": "deposit",
+        "amount": 617000,
+        "description": "Tabungan"
+      }
+    ]
+  },
+  {
+    "id": "308",
+    "name": "Bagas Setyo Utomo",
+    "nim": "2425108383",
+    "balance": 20000,
+    "transactions": [
+      {
+        "id": "t1764067547061",
+        "date": "2025-11-25",
+        "type": "deposit",
+        "amount": 20000,
+        "description": "Tabungan"
+      }
+    ]
+  },
+  {
+    "id": "309",
+    "name": "Clevio Revanditya Alghiffari",
+    "nim": "2425108384",
+    "balance": 202000,
+    "transactions": [
+      {
+        "id": "t1764067564131",
+        "date": "2025-11-25",
+        "type": "deposit",
+        "amount": 202000,
+        "description": "Tabungan"
+      }
+    ]
+  },
+  {
+    "id": "310",
+    "name": "Devi Marissa",
+    "nim": "2425108385",
+    "balance": 360000,
+    "transactions": [
+      {
+        "id": "t1764067578947",
+        "date": "2025-11-25",
+        "type": "deposit",
+        "amount": 360000,
+        "description": "Tabungan"
+      }
+    ]
+  },
+  {
+    "id": "311",
+    "name": "Eka Maulana Agustino",
+    "nim": "2425108386",
+    "balance": 35000,
+    "transactions": [
+      {
+        "id": "t1764067598085",
+        "date": "2025-11-25",
+        "type": "deposit",
+        "amount": 35000,
+        "description": "Tabungan"
+      }
+    ]
+  },
+  {
+    "id": "312",
+    "name": "Elang Pratama Putra Priyana",
+    "nim": "2425108387",
+    "balance": 4000,
+    "transactions": [
+      {
+        "id": "t1764067651037",
+        "date": "2025-11-25",
+        "type": "deposit",
+        "amount": 4000,
+        "description": "Tabungan"
+      }
+    ]
+  },
+  {
+    "id": "313",
+    "name": "Fabian Runaqun Madinu",
+    "nim": "2425108388",
+    "balance": 0,
+    "transactions": [
+      {
+        "id": "t12",
+        "date": "2025-11-01",
+        "type": "deposit",
+        "amount": 0,
+        "description": "Tabungan"
+      }
+    ]
+  },
+  {
+    "id": "314",
+    "name": "Hefa Ratu Bashasha Azaria",
+    "nim": "2425108389",
+    "balance": 100000,
+    "transactions": [
+      {
+        "id": "t1764067672968",
+        "date": "2025-11-25",
+        "type": "deposit",
+        "amount": 100000,
+        "description": "Tabungan"
+      }
+    ]
+  },
+  {
+    "id": "315",
+    "name": "Imam Wafa Saputra",
+    "nim": "2425108390",
+    "balance": 307000,
+    "transactions": [
+      {
+        "id": "t1764067691062",
+        "date": "2025-11-25",
+        "type": "deposit",
+        "amount": 307000,
+        "description": "Tabungan"
+      }
+    ]
+  },
+  {
+    "id": "316",
+    "name": "In'am Masyhuroh",
+    "nim": "2425108391",
+    "balance": 10000,
+    "transactions": [
+      {
+        "id": "t1764067799349",
+        "date": "2025-11-25",
+        "type": "deposit",
+        "amount": 10000,
+        "description": "Tabungan"
+      }
+    ]
+  },
+  {
+    "id": "317",
+    "name": "Intan Ayu Saharani",
+    "nim": "2425108392",
+    "balance": 167000,
+    "transactions": [
+      {
+        "id": "t1764067815502",
+        "date": "2025-11-25",
+        "type": "deposit",
+        "amount": 167000,
+        "description": "Tabungan"
+      }
+    ]
+  },
+  {
+    "id": "318",
+    "name": "Marsya Adytia",
+    "nim": "2425108393",
+    "balance": 182000,
+    "transactions": [
+      {
+        "id": "t1764067827854",
+        "date": "2025-11-25",
+        "type": "deposit",
+        "amount": 182000,
+        "description": "Tabungan"
+      }
+    ]
+  },
+  {
+    "id": "319",
+    "name": "Muflihati Nisa'",
+    "nim": "2425108394",
+    "balance": 290000,
+    "transactions": [
+      {
+        "id": "t1764067843860",
+        "date": "2025-11-25",
+        "type": "deposit",
+        "amount": 290000,
+        "description": "Tabungan"
+      }
+    ]
+  },
+  {
+    "id": "320",
+    "name": "Muhammad Hafidz Attamimi",
+    "nim": "2425108395",
+    "balance": 23000,
+    "transactions": [
+      {
+        "id": "t1764067868571",
+        "date": "2025-11-25",
+        "type": "deposit",
+        "amount": 23000,
+        "description": "Tabungan"
+      }
+    ]
+  },
+  {
+    "id": "321",
+    "name": "Muhammad Hamzah Zulfian",
+    "nim": "2425108396",
+    "balance": 32000,
+    "transactions": [
+      {
+        "id": "t1764067962252",
+        "date": "2025-11-25",
+        "type": "deposit",
+        "amount": 32000,
+        "description": "Tabungan"
+      }
+    ]
+  },
+  {
+    "id": "322",
+    "name": "Muhammad Rizki",
+    "nim": "2425108397",
+    "balance": 202000,
+    "transactions": [
+      {
+        "id": "t1764067977564",
+        "date": "2025-11-25",
+        "type": "deposit",
+        "amount": 202000,
+        "description": "Tabungan"
+      }
+    ]
+  },
+  {
+    "id": "323",
+    "name": "Nesya Widianingrum",
+    "nim": "2425108398",
+    "balance": 90000,
+    "transactions": [
+      {
+        "id": "t1764067986700",
+        "date": "2025-11-25",
+        "type": "deposit",
+        "amount": 90000,
+        "description": "Tabungan"
+      }
+    ]
+  },
+  {
+    "id": "324",
+    "name": "Rahmatan Ihsan",
+    "nim": "2425108399",
+    "balance": 20000,
+    "transactions": [
+      {
+        "id": "t1764068004397",
+        "date": "2025-11-25",
+        "type": "deposit",
+        "amount": 20000,
+        "description": "Tabungan"
+      }
+    ]
+  },
+  {
+    "id": "325",
+    "name": "Ramon Dema Raditia",
+    "nim": "2425108400",
+    "balance": 2000,
+    "transactions": [
+      {
+        "id": "t1764068012259",
+        "date": "2025-11-25",
+        "type": "deposit",
+        "amount": 2000,
+        "description": "Tabungan"
+      }
+    ]
+  },
+  {
+    "id": "326",
+    "name": "Randi Riski Dermawan",
+    "nim": "2425108401",
+    "balance": 2000,
+    "transactions": [
+      {
+        "id": "t1764068019564",
+        "date": "2025-11-25",
+        "type": "deposit",
+        "amount": 2000,
+        "description": "Tabungan"
+      }
+    ]
+  },
+  {
+    "id": "327",
+    "name": "Rifal Abdul Ghozali",
+    "nim": "2425108402",
+    "balance": 85000,
+    "transactions": [
+      {
+        "id": "t1764068035579",
+        "date": "2025-11-25",
+        "type": "deposit",
+        "amount": 85000,
+        "description": "Tabungan"
+      }
+    ]
+  },
+  {
+    "id": "328",
+    "name": "Salfa Meiza Adinda",
+    "nim": "2425108403",
+    "balance": 71000,
+    "transactions": [
+      {
+        "id": "t1764068047044",
+        "date": "2025-11-25",
+        "type": "deposit",
+        "amount": 71000,
+        "description": "Tabungan"
+      }
+    ]
+  },
+  {
+    "id": "329",
+    "name": "Satriyo Mandala Putra",
+    "nim": "2425108404",
+    "balance": 418000,
+    "transactions": [
+      {
+        "id": "t1764068081316",
+        "date": "2025-11-25",
+        "type": "deposit",
+        "amount": 418000,
+        "description": "Tabungan"
+      }
+    ]
+  },
+  {
+    "id": "330",
+    "name": "Siti Nur Fadhila",
+    "nim": "2425108406",
+    "balance": 603000,
+    "transactions": [
+      {
+        "id": "t1764068104945",
+        "date": "2025-11-25",
+        "type": "deposit",
+        "amount": 603000,
+        "description": "Tabungan"
+      }
+    ]
+  },
+  {
+    "id": "331",
+    "name": "Vallen Gavriel Samsih Putra",
+    "nim": "2425108407",
+    "balance": 15000,
+    "transactions": [
+      {
+        "id": "t1764068126856",
+        "date": "2025-11-25",
+        "type": "deposit",
+        "amount": 15000,
+        "description": "Tabungan"
+      }
+    ]
+  },
+  {
+    "id": "332",
+    "name": "Wulan Ramadhani",
+    "nim": "2425108408",
+    "balance": 200000,
+    "transactions": [
+      {
+        "id": "t1764068138279",
+        "date": "2025-11-25",
+        "type": "deposit",
+        "amount": 200000,
+        "description": "Tabungan"
+      }
+    ]
+  },
+  {
+    "id": "333",
+    "name": "Zaki Surya Yanunanda",
+    "nim": "2425108409",
+    "balance": 240000,
+    "transactions": [
+      {
+        "id": "t1764068154688",
+        "date": "2025-11-25",
+        "type": "deposit",
+        "amount": 240000,
+        "description": "Tabungan"
+      }
+    ]
+  }
+]

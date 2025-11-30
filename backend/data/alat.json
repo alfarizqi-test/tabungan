@@ -1,0 +1,245 @@
+[
+  {
+    "username": "walikelas",
+    "password": "H64i6-Wali",
+    "role": "treasurer",
+    "name": "Wali Kelas XI TKJ 3"
+  },
+  {
+    "username": "bendahara",
+    "password": "H64i6-Bendahara",
+    "role": "treasurer",
+    "name": "Bendahara"
+  },
+  {
+    "username": "2425108376",
+    "password": "W76gH",
+    "role": "student",
+    "studentId": "301",
+    "name": "Adellia Dwi Alfiana"
+  },
+  {
+    "username": "2425108377",
+    "password": "79HGy",
+    "role": "student",
+    "studentId": "302",
+    "name": "Aisyah Suciana"
+  },
+  {
+    "username": "2425108378",
+    "password": "01KiQ",
+    "role": "student",
+    "studentId": "303",
+    "name": "Akhmal Widiyatma Kusuma"
+  },
+  {
+    "username": "2425108379",
+    "password": "H64i6",
+    "role": "student",
+    "studentId": "304",
+    "name": "Alfarizqi Himam Harakan"
+  },
+  {
+    "username": "2425108380",
+    "password": "Al45P",
+    "role": "student",
+    "studentId": "305",
+    "name": "Alip Mustakim"
+  },
+  {
+    "username": "2425108381",
+    "password": "D3X2a",
+    "role": "student",
+    "studentId": "306",
+    "name": "Anggi Meilani Laksono"
+  },
+  {
+    "username": "2425108382",
+    "password": "",
+    "role": "student",
+    "studentId": "307",
+    "name": "Azarine Febriana Puspita"
+  },
+  {
+    "username": "2425108383",
+    "password": "rec",
+    "role": "student",
+    "studentId": "308",
+    "name": "Bagas Setyo Utomo"
+  },
+  {
+    "username": "2425108384",
+    "password": "",
+    "role": "student",
+    "studentId": "309",
+    "name": "Clevio Revanditya Alghiffar"
+  },
+  {
+    "username": "2425108385",
+    "password": "",
+    "role": "student",
+    "studentId": "310",
+    "name": "Devi Marissa"
+  },
+  {
+    "username": "2425108386",
+    "password": "",
+    "role": "student",
+    "studentId": "311",
+    "name": "Eka Maulana Agustino"
+  },
+  {
+    "username": "2425108387",
+    "password": "",
+    "role": "student",
+    "studentId": "312",
+    "name": "Elang Pratama Putra Priyana"
+  },
+  {
+    "username": "2425108388",
+    "password": "",
+    "role": "student",
+    "studentId": "313",
+    "name": "Fabian Runaqun Madinu"
+  },
+  {
+    "username": "2425108389",
+    "password": "",
+    "role": "student",
+    "studentId": "314",
+    "name": "Hefa Ratu Bashasha Azaria"
+  },
+  {
+    "username": "2425108390",
+    "password": "",
+    "role": "student",
+    "studentId": "315",
+    "name": "Imam Wafa Saputra"
+  },
+  {
+    "username": "2425108391",
+    "password": "",
+    "role": "student",
+    "studentId": "316",
+    "name": "In'am Masyhuroh"
+  },
+  {
+    "username": "2425108392",
+    "password": "",
+    "role": "student",
+    "studentId": "317",
+    "name": "Intan Ayu Saharani"
+  },
+  {
+    "username": "2425108393",
+    "password": "",
+    "role": "student",
+    "studentId": "318",
+    "name": "Marsya Adytia"
+  },
+  {
+    "username": "2425108394",
+    "password": "",
+    "role": "student",
+    "studentId": "319",
+    "name": "Muflihati Nisa'"
+  },
+  {
+    "username": "2425108395",
+    "password": "",
+    "role": "student",
+    "studentId": "320",
+    "name": "Muhammad Hafidz Attamimi"
+  },
+  {
+    "username": "2425108396",
+    "password": "",
+    "role": "student",
+    "studentId": "321",
+    "name": "Muhammad Hamzah Zulfian"
+  },
+  {
+    "username": "2425108397",
+    "password": "",
+    "role": "student",
+    "studentId": "322",
+    "name": "Muhammad Rizki"
+  },
+  {
+    "username": "2425108398",
+    "password": "",
+    "role": "student",
+    "studentId": "323",
+    "name": "Nesya Widianingrum"
+  },
+  {
+    "username": "2425108399",
+    "password": "",
+    "role": "student",
+    "studentId": "324",
+    "name": "Rahmatan Ihsan"
+  },
+  {
+    "username": "2425108400",
+    "password": "",
+    "role": "student",
+    "studentId": "325",
+    "name": "Ramon Dema Raditia"
+  },
+  {
+    "username": "2425108401",
+    "password": "",
+    "role": "student",
+    "studentId": "326",
+    "name": "Randi Riski Dermawan"
+  },
+  {
+    "username": "2425108402",
+    "password": "",
+    "role": "student",
+    "studentId": "327",
+    "name": "Rifal Abdul Ghozali"
+  },
+  {
+    "username": "2425108403",
+    "password": "",
+    "role": "student",
+    "studentId": "328",
+    "name": "Salfa Meiza Adinda"
+  },
+  {
+    "username": "2425108404",
+    "password": "",
+    "role": "student",
+    "studentId": "329",
+    "name": "Satriyo Mandala Putra"
+  },
+  {
+    "username": "2425108406",
+    "password": "",
+    "role": "student",
+    "studentId": "330",
+    "name": "Siti Nur Fadhila"
+  },
+  {
+    "username": "2425108407",
+    "password": "",
+    "role": "student",
+    "studentId": "331",
+    "name": "Vallen Gavriel Samsih Putra"
+  },
+  {
+    "username": "2425108408",
+    "password": "",
+    "role": "student",
+    "studentId": "332",
+    "name": "Wulan Ramadhani"
+  },
+  {
+    "username": "2425108409",
+    "password": "",
+    "role": "student",
+    "studentId": "333",
+    "name": "Zaki Surya Yanunanda"
+  }
+]
