@@ -5,12 +5,14 @@ const fs = require('fs');
 const path = require('path');
 
 const app = express();
-const PORT = 4000;
+const PORT = process.env.PORT || 4000;
 
 app.use(cors());
 app.use(express.json());
 
-// path ke file JSON
+// =======================
+// PATH KE FILE JSON
+// =======================
 const alatPath = path.join(__dirname, 'data', 'alat.json');
 const duitPath = path.join(__dirname, 'data', 'duit.json');
 
@@ -22,17 +24,24 @@ function saveJson(filePath, data) {
   fs.writeFileSync(filePath, JSON.stringify(data, null, 2), 'utf8');
 }
 
-// LOGIN
+// =======================
+// API LOGIN
+// =======================
 app.post('/api/login', (req, res) => {
   const { username, password } = req.body;
   const credentials = loadJson(alatPath);
 
-  const found = credentials.find(c => c.username === username && c.password === password);
+  const found = credentials.find(
+    c => c.username === username && c.password === password
+  );
+
   if (!found) {
-    return res.status(401).json({ success: false, message: 'Username / password salah' });
+    return res.status(401).json({
+      success: false,
+      message: 'Username / password salah',
+    });
   }
 
-  // role & studentId diambil dari JSON
   return res.json({
     success: true,
     role: found.role,
@@ -41,21 +50,33 @@ app.post('/api/login', (req, res) => {
   });
 });
 
-// GET semua siswa (untuk bendahara)
+// =======================
+// GET SEMUA SISWA
+// =======================
 app.get('/api/students', (req, res) => {
   const students = loadJson(duitPath);
   res.json(students);
 });
 
-// GET 1 siswa
+// =======================
+// GET 1 SISWA
+// =======================
 app.get('/api/students/:id', (req, res) => {
   const students = loadJson(duitPath);
-  const student = students.find(s => String(s.id) === String(req.params.id));
-  if (!student) return res.status(404).json({ message: 'Student not found' });
+  const student = students.find(
+    s => String(s.id) === String(req.params.id)
+  );
+
+  if (!student) {
+    return res.status(404).json({ message: 'Student not found' });
+  }
+
   res.json(student);
 });
 
-// Tambah transaksi untuk siswa
+// =======================
+// TAMBAH TRANSAKSI
+// =======================
 app.post('/api/students/:id/transactions', (req, res) => {
   const { amount, description, type } = req.body;
   const studentId = req.params.id;
@@ -65,8 +86,13 @@ app.post('/api/students/:id/transactions', (req, res) => {
   }
 
   const students = loadJson(duitPath);
-  const idx = students.findIndex(s => String(s.id) === String(studentId));
-  if (idx === -1) return res.status(404).json({ message: 'Student not found' });
+  const idx = students.findIndex(
+    s => String(s.id) === String(studentId)
+  );
+
+  if (idx === -1) {
+    return res.status(404).json({ message: 'Student not found' });
+  }
 
   const student = students[idx];
 
@@ -79,7 +105,7 @@ app.post('/api/students/:id/transactions', (req, res) => {
     date: new Date().toISOString().split('T')[0],
     type,
     amount,
-    description
+    description,
   };
 
   const balanceChange = type === 'deposit' ? amount : -amount;
@@ -87,7 +113,7 @@ app.post('/api/students/:id/transactions', (req, res) => {
   const updated = {
     ...student,
     balance: student.balance + balanceChange,
-    transactions: [newTx, ...student.transactions]
+    transactions: [newTx, ...student.transactions],
   };
 
   students[idx] = updated;
@@ -96,23 +122,28 @@ app.post('/api/students/:id/transactions', (req, res) => {
   res.json(updated);
 });
 
-// Hapus transaksi
+// =======================
+// HAPUS TRANSAKSI
+// =======================
 app.delete('/api/students/:id/transactions/:txId', (req, res) => {
   const { id, txId } = req.params;
   const students = loadJson(duitPath);
 
-  const idx = students.findIndex(s => String(s.id) === String(id));
+  const idx = students.findIndex(
+    s => String(s.id) === String(id)
+  );
+
   if (idx === -1) {
     return res.status(404).json({ message: 'Student not found' });
   }
 
   const student = students[idx];
   const tx = student.transactions.find(t => t.id === txId);
+
   if (!tx) {
     return res.status(404).json({ message: 'Transaction not found' });
   }
 
-  // Sesuaikan saldo
   const balanceAdjustment =
     tx.type === 'deposit' ? -tx.amount : tx.amount;
 
@@ -125,9 +156,22 @@ app.delete('/api/students/:id/transactions/:txId', (req, res) => {
   students[idx] = updated;
   saveJson(duitPath, students);
 
-  return res.json(updated);
+  res.json(updated);
 });
 
+// =======================
+// SERVE FRONTEND (VITE)
+// =======================
+const frontendPath = path.join(__dirname, '..', 'dist');
+app.use(express.static(frontendPath));
+
+app.get('*', (req, res) => {
+  res.sendFile(path.join(frontendPath, 'index.html'));
+});
+
+// =======================
+// START SERVER
+// =======================
 app.listen(PORT, () => {
-  console.log(`Backend running on http://localhost:${PORT}`);
+  console.log(`Server running on port ${PORT}`);
 });
