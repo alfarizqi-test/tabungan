@@ -5,7 +5,7 @@ import { StudentDashboard } from './components/StudentDashboard';
 import { TreasurerDashboard } from './components/TreasurerDashboard';
 import { Student, UserRole, Transaction } from './types';
 
-const API_BASE = 'http://192.168.1.10:4000';
+const API_BASE = '';
 
 type LoginResult = {
   success: boolean;
